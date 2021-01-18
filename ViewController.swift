@@ -19,6 +19,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 //        return cell
     }
     
+    
 
     @IBOutlet weak var stackFirst: UIStackView!
     @IBOutlet weak var stackSecond: UIStackView!
